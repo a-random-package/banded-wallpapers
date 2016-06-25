@@ -1,4 +1,4 @@
 # banded-wallpapers
 Wallpaper repo for Banded
 
-This is jujst a wwallpaper repo
+This is jujst a wallpaper repo
