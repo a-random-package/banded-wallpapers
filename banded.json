@@ -17,6 +17,18 @@
       "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/Binho_banded.jpg",
       "name":"Binho",
       "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/binho_banded_small.png"
+    },
+      {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedfour.png",
+      "name":"Banded Four",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/four_small.png"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/CastAway.png",
+      "name":"Banded Four",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/castaway_small.png"
     }
   ]
 }
