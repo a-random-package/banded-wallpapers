@@ -2,21 +2,21 @@
   "wallpapers": [
     {
       "author": "A Random Package",
-      "url": "https://raw.githubusercontent.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
       "name": "Banded One",
-      "thumbnail": "https://raw.githubusercontent.com/a-random-package/banded-wallpapers/master/five_small.jpg"
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/five_small.jpg"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-      "name": "Heads Up",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/Napili_Rain.jpg",
+      "name": "Napili Rain",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/napili_small.png"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":" Flamingos",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/Binho_banded.jpg",
+      "name":"Binho",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/binho_banded_small.png"
     }
   ]
 }
