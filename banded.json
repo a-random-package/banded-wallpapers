@@ -2,9 +2,9 @@
   "wallpapers": [
     {
       "author": "A Random Package",
-      "url": "https://sites.google.com/site/randomhostthree/Napili_RainD.png",
-      "name": "Napili Rain",
-      "thumbnail": "https://sites.google.com/site/randomhosttwo/napili_small.png"
+      "url": "https://raw.githubusercontent.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
+      "name": "Banded One",
+      "thumbnail": "https://raw.githubusercontent.com/a-random-package/banded-wallpapers/master/five_small.jpg"
     },
     {
       "author": "Tom Wellington",
