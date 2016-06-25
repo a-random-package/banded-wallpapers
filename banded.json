@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "author": "A Random Package",
+                        "url": "https://sites.google.com/site/randomhostthree/Napili_RainD.png",
+                        "thumbUrl": "https://sites.google.com/site/randomhosttwo/napili_small.png",
+                        "name": "Napili Rain"
+    },
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "Heads Up",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+      "name":" Flamingos",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+    }
+  ]
+}
