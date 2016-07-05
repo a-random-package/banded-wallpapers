@@ -2,6 +2,12 @@
   "wallpapers": [
     {
       "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/lazy-daisies.png",
+      "name": "Lazy Daisies",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/lazy-daisies-small.png"
+    },  
+    {
+      "author": "A Random Package",
       "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
       "name": "Banded One",
       "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/five_small.jpg"
