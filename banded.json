@@ -6,12 +6,6 @@
       "name": "Lazy Daisies",
       "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/lazy-daisies-small.png"
     },
-      {
-      "author": "A Random Package",
-      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/dock_dark.jpg",
-      "name": "Settled",
-      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/one_small_dark.jpg"
-    },
     {
       "author": "A Random Package",
       "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
@@ -32,9 +26,27 @@
     },
       {
       "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedthree.png",
+      "name":"At The Top",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/three_small.jpg"
+    },
+       {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedtwo.png",
+      "name":"For The Trees",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/two_small.jpg"
+    },
+      {
+      "author": "YA Design",
       "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedfour.png",
       "name":"Banded Four",
       "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/four_small.png"
+    },
+       {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/dock_dark.jpg",
+      "name": "Settled",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/one_small_dark.jpg"
     },
     {
       "author": "A Random Package",
