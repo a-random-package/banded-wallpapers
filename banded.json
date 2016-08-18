@@ -1,5 +1,11 @@
 {
   "wallpapers": [
+      {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/set_today_a_fire.png",
+      "name": "Set Today A Fire",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/set_today_a_fire_small.png"
+    },
     {
       "author": "A Random Package",
       "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/lazy-daisies.png",
