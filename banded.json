@@ -14,6 +14,12 @@
     },
     {
       "author": "A Random Package",
+      "url": "https://sites.google.com/site/randomhosttwo/the_rush.png",
+      "name": "The Rush",
+      "thumbnail": "https://sites.google.com/site/randomhosttwo/The_Rush_N4.png"
+    },
+    {
+      "author": "A Random Package",
       "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
       "name": "Banded One",
       "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/five_small.jpg"
